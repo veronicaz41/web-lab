@@ -1,0 +1,20 @@
+.plant {
+    position: relative;
+    cursor: pointer;
+}
+
+.plant img {
+    /* border: 2px solid #fff; */
+    /* border-radius: 6px; */
+    height: 20px;
+    margin-top: 20px;
+}
+
+.Plant-health{
+    font: size 10px;
+}
+
+.plant:hover {
+    transform: scale(0.9);
+    transition-duration: 0.3s;
+  }
