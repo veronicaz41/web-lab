@@ -1,7 +1,7 @@
 {
   "name": "snarkjs-starter",
   "version": "1.0.0",
-  "main": "index.js",
+  "source": "client/src/index.html",
   "license": "MIT",
   "scripts": {
     "start": "parcel client/src/index.html"
